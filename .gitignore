@@ -1,0 +1,6 @@
+datasets/*
+best_model_task_1.pth
+best_model_task_2.pth
+best_model_task_3.pth
+
+models/*
